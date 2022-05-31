@@ -1,7 +1,7 @@
 {
   "name": "@enfo/aws-stack-tags",
   "version": "1.0.0",
-  "description": "Stack Tags for Enfo managed AWS accounts",
+  "description": "Stack Tags types for Enfo managed AWS accounts",
   "main": "index.js",
   "types": "index.ts",
   "scripts": {
