@@ -1,0 +1,24 @@
+{
+  "name": "@enfo/aws-stack-tags",
+  "version": "1.0.0",
+  "description": "Stack Tags for Enfo managed AWS accounts",
+  "main": "index.js",
+  "types": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enfogroup/stack-tags.git"
+  },
+  "keywords": [
+    "aws",
+    "tags"
+  ],
+  "author": "COPS AWS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enfogroup/stack-tags/issues"
+  },
+  "homepage": "https://github.com/enfogroup/stack-tags#readme"
+}
