@@ -60,7 +60,9 @@ export enum ManagedBy {
 /**
  * Standard tags which should be applied to all resources in an Enfo account
  */
-export interface StackTags {
+export type StackTags = {
+  [key: string]: string
+} & {
   /**
    * Email of assigned owner
    */
